@@ -8,7 +8,10 @@
 
 ## Projects
 
-**Project name:** beans-scope
+**Project name:** beans-scope	
+
+This project demonstrates the use of different bean scopes in a Spring Boot application. It includes a RESTful API with endpoints to manage a shopping cart, showcasing the behavior of singleton, prototype, session, request, and application scoped beans. Through this project, we can understand how beans with different scopes behave in Spring applications, particularly in the context of managing shopping cart data across different sessions and requests.
+
 
 
 <!-- 
